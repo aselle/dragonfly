@@ -64,6 +64,9 @@ To use the CMU Pocket Sphinx engine, see the `relevant documentation
 page <http://dragonfly2.readthedocs.org/en/latest/sphinx_engine.html>`__
 on it.
 
+*NOTE* This branch requires pyia2 which can be obtained from
+https://github.com/illinois-dres-aitg/pyia2
+
 Features
 --------
 
